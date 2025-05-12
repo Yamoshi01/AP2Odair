@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DF1 {
+public class LinearFibonacci {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
